@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: Add SpendWise project files"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/spendwise.git
+git push -u origin main
